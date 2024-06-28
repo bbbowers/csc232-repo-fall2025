@@ -1,4 +1,4 @@
-# FIND THE BUG (#9) -- Courtesy of Bernny V.
+# FIND THE BUG (#8) -- Courtesy of Bernny V.
 # https://open.kattis.com/problems/shoppinglist
 
 def main():

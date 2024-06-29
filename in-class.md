@@ -9,6 +9,7 @@
 - https://open.kattis.com/problems/flatbokuveisla
 - https://open.kattis.com/problems/bestagjofin
 - https://leetcode.com/problems/majority-element/
+- https://leetcode.com/problems/defanging-an-ip-address
 - [3n + 1 problem](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=36)
 - https://open.kattis.com/problems/moscowdream
 
@@ -55,7 +56,7 @@ Where the solution involves developing code to simulate whatever situation is de
 - https://open.kattis.com/problems/relocation (DAT)
 - https://open.kattis.com/problems/babelfish (map)
 - https://open.kattis.com/problems/bard (set + map)
-
+- https://leetcode.com/problems/encode-and-decode-tinyurl/
 
 ## Week 9-10 [Graphs]
 [Sk Ch. 9-10]
@@ -69,20 +70,22 @@ Where the solution involves developing code to simulate whatever situation is de
 ## Week 11 [Strings]
 [Sk Ch. 3; CP Ch. 6]
 
-- https://open.kattis.com/problems/crackingthecode
+- https://leetcode.com/problems/split-a-string-in-balanced-strings/
 - https://open.kattis.com/problems/playfair
 - https://open.kattis.com/problems/polish
 - https://open.kattis.com/problems/hidden [1d array or regex]
+- https://open.kattis.com/problems/crackingthecode
 
 
 ## Week 12-13 [Dynamic Programming]
 [Sk Ch. 11; CP 3.5]
 
+- https://open.kattis.com/problems/canonical
+- [Self-describing sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=34&page=show_problem&problem=990) 
+
 - https://open.kattis.com/problems/knapsack
 - https://open.kattis.com/problems/orders
-- https://open.kattis.com/problems/canonical
 - https://open.kattis.com/problems/spiderman
-- [Self-describing sequence](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=34&page=show_problem&problem=990) (look up the recurrence)
 
 
 ## Week 14 [Geometry]

@@ -1,5 +1,6 @@
+# FIND THE BUG (#10)
 # https://leetcode.com/problems/maximum-total-importance-of-roads
-from typing import List
+from typing import List   # leetcode automatically does this
 
 
 
@@ -31,5 +32,5 @@ class Solution:
 
 
 
-print( Solution().maximumImportance(5, [[0,1],[1,2],[2,3],[0,2],[1,3],[2,4]]) )
+# print( Solution().maximumImportance(5, [[0,1],[1,2],[2,3],[0,2],[1,3],[2,4]]) )
 

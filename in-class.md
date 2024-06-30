@@ -58,6 +58,7 @@ Where the solution involves developing code to simulate whatever situation is de
 - https://open.kattis.com/problems/bard (set + map)
 - https://leetcode.com/problems/encode-and-decode-tinyurl/
 
+
 ## Week 9-10 [Graphs]
 [Sk Ch. 9-10]
 
@@ -94,6 +95,5 @@ Where the solution involves developing code to simulate whatever situation is de
 - https://open.kattis.com/problems/browniepoints
 - https://open.kattis.com/problems/imperfectgps
 - https://open.kattis.com/problems/hurricanedanger
-
 
 

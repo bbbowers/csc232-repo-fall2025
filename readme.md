@@ -15,3 +15,9 @@
 
 <hr>
 
+## Links/Resources
+
+- [List of programming challenge/contest sites](sites.md)
+
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/) (articles/tutorials)
+

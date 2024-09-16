@@ -27,7 +27,7 @@
 Where the solution involves developing code to simulate whatever situation is described in the text of the problem.
 
 - https://open.kattis.com/problems/finalexam2
-- [UVa - 119 - Greedy Gift Givers](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=55)
+- [UVa - 119 - Greedy Gift Givers](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=55)   [[FTB](find-the-bug/bug-c3-2024-uva-119-greedy-gifts.py)]
 
 
 ## Week 4-5 [1D Arrays]

@@ -9,4 +9,8 @@ If you start on one of these and get stuck, you can ask me for help on Discord o
 
 ## Graphs
 
-- 
+- https://open.kattis.com/problems/horror
+- https://open.kattis.com/problems/lostmap
+- https://open.kattis.com/problems/marblestree
+- https://open.kattis.com/problems/10kindsofpeople
+- https://open.kattis.com/problems/fulltank

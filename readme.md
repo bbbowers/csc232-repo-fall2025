@@ -1,4 +1,4 @@
-# CSC 232 - Competitive Programming - Fall 2024
+# CSC 232 - Competitive Programming - Fall 2025
 
 ## Reading/Lectures
 
@@ -8,7 +8,8 @@
 
 - [**A Whirlwind Tour of Python**](https://jakevdp.github.io/WhirlwindTourOfPython/) - "... a fast-paced introduction to essential features of the Python language, aimed at researchers and developers who are already familiar with programming in another language."
 <br>        **Up to Chapter 12** would be relevant for this course.
-
+- [**Software Carpentry- Programming With Python**](https://swcarpentry.github.io/python-novice-inflammation/) - "The best way to learn how to program is to do something useful, so this introduction to Python is built around a common scientific task: data analysis."
+    - If you work through this by yourself, you may want to skip around a little bit (visualizations are good, but not something we'll immediately utilize in this course...)
 
 - **Input Patterns**
     - [Python](input-patterns/input-patterns.md) 

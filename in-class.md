@@ -96,4 +96,18 @@ Where the solution involves developing code to simulate whatever situation is de
 - https://open.kattis.com/problems/imperfectgps
 - https://open.kattis.com/problems/hurricanedanger
 
+## Live Interview (Warmup) Question Bank
+- https://leetcode.com/problems/palindrome-number
+- https://leetcode.com/problems/roman-to-integer
+- https://leetcode.com/problems/merge-two-sorted-lists
+- https://leetcode.com/problems/remove-duplicates-from-sorted-array
+- https://leetcode.com/problems/length-of-last-word
+- https://leetcode.com/problems/valid-anagram
+- https://leetcode.com/problems/multiply-strings/
 
+## Live Interview Question Bank
+- https://leetcode.com/problems/reverse-integer
+- https://leetcode.com/problems/letter-combinations-of-a-phone-number
+- https://leetcode.com/problems/remove-nth-node-from-end-of-list
+- https://leetcode.com/problems/container-with-most-water
+- https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
